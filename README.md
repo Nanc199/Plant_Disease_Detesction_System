@@ -23,8 +23,8 @@ A full-stack web application that detects plant diseases from uploaded leaf imag
 
 ### Screenshots
 <img width="1874" height="912" alt="Screenshot 2026-10-12 160937" src="https://github.com/user-attachments/assets/50387f20-dc78-4821-a8fd-bec502e743a5" />
+<img width="1874" height="912" alt="Screenshot 2026-10-12 160937" src="https://github.com/user-attachments/assets/73c874de-5cef-45cc-832c-ea8e504eae56" />
 
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/2c25e0d1-19a1-4bd7-8c79-5403536b9ecf" />
 
 
 
